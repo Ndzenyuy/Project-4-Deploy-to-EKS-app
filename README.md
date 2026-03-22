@@ -116,7 +116,7 @@ docker push ndzenyuy/lumia-db:latest
 
 ---
 
-### 5. Configure GitHub Actions Secrets
+### 5. Configure GitHub Actions Secrets(App repository)
 
 Go to **Settings → Secrets and variables → Actions** in this repository and add:
 
